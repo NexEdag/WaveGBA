@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "note": "WaveGBA 更新信息。直接编辑 versionCode / versionName / notes / url / pwd 五个字段即可，其他字段不要动。versionCode 必须递增，客户端只在 远端 > 本地 时提示。",
+  "v": {
+    "versionCode": 121,
+    "versionName": "1.2.1",
+    "notes": "· 新增：摇杆方向键，可与十字键切换\n· 新增：启动时与菜单内检查更新\n· 新增：界面字体切换（配合字体包）\n· 修复：快速读档等对话框点「取消」后画面卡死\n· 修复：库界面、添加游戏界面字体不生效\n· 修复：M 版第二次运行游戏闪退",
+    "url": "https://wavesimulator.lanzouu.com/b01gide3wj",
+    "pwd": "a28q"
+  },
+  "m": {
+    "versionCode": 121,
+    "versionName": "1.2.1",
+    "notes": "· 新增：摇杆方向键，可与十字键切换\n· 新增：启动时与菜单内检查更新\n· 新增：界面字体切换（配合字体包）\n· 修复：快速读档等对话框点「取消」后画面卡死\n· 修复：库界面、添加游戏界面字体不生效\n· 修复：M 版第二次运行游戏闪退",
+    "url": "https://wavesimulator.lanzouu.com/b01gide42f",
+    "pwd": "3w18"
+  }
+}
