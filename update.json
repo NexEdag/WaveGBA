@@ -2,16 +2,16 @@
   "schema": 1,
   "note": "WaveGBA 更新信息。直接编辑 versionCode / versionName / notes / url / pwd 五个字段即可，其他字段不要动。versionCode 必须递增，客户端只在 远端 > 本地 时提示。",
   "v": {
-    "versionCode": 122,
-    "versionName": "1.2.2",
-    "notes": "· 新增：摇杆方向键，可与十字键切换\n· 新增：自动检查更新（启动检查 + 菜单手动）\n· 修复：快速读档等对话框点「取消」后卡死\n· 修复：库界面、添加游戏界面字体不生效",
+    "versionCode": 123,
+    "versionName": "1.2.3",
+    "notes": "· 新增：Luka 圣庙，供奉与香火、游玩时长统计\n· 新增：自定义游戏封面，长按卡片更换\n· 新增：按键皮肤四种，方向键与摇杆同样生效\n· 新增：留白壁纸，填充画面四周留白\n· 新增：沉浸全屏可开关\n· 重做：金手指改为 MyBoy 模型，五种码类型\n· 修复：金手指不生效（CodeBreaker 格式、Raw 参数）\n· 修复：留白壁纸菜单没有按钮",
     "url": "https://wavesimulator.lanzouu.com/b01gide3wj",
     "pwd": "a28q"
   },
   "m": {
-    "versionCode": 122,
-    "versionName": "1.2.2",
-    "notes": "· 新增：摇杆方向键，可与十字键切换\n· 新增：自动检查更新（启动检查 + 菜单手动）\n· 修复：快速读档等对话框点「取消」后卡死\n· 修复：库界面、添加游戏界面字体不生效",
+    "versionCode": 123,
+    "versionName": "1.2.3",
+    "notes": "· 新增：Luka 圣庙，供奉与香火、游玩时长统计\n· 新增：自定义游戏封面，长按卡片更换\n· 新增：按键皮肤四种，方向键与摇杆同样生效\n· 新增：留白壁纸，填充画面四周留白\n· 新增：沉浸全屏可开关\n· 重做：金手指改为 MyBoy 模型，五种码类型\n· 新增：重编核心，按类型分发\n· 修复：金手指不生效（CodeBreaker 格式、Raw 参数）\n· 修复：留白壁纸菜单没有按钮",
     "url": "https://wavesimulator.lanzouu.com/b01gide42f",
     "pwd": "3w18"
   }
